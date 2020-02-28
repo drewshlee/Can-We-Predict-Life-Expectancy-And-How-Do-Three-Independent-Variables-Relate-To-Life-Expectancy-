@@ -24,4 +24,5 @@ To investigate these the relationships among these three variables and life expe
 
 ## Sample Data Visualization
 
-![Image of Schooling and Life Expectancy](https://github.com/drewshlee/Can-We-Predict-Life-Expectancy-Life-Expectancy-and-its-relation-to-GDP-Capita-Population-School/blob/master/SchoolingAndLifeExpectancy.JPG
+![Image of Schooling and Life Expectancy](https://github.com/drewshlee/Can-We-Predict-Life-Expectancy-Life-Expectancy-and-its-relation-to-GDP-Capita-Population-School/blob/master/SchoolingAndLifeExpectancy.JPG)
+
