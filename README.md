@@ -14,7 +14,8 @@ And lastly, education has always been a subject of hotly contested debate in reg
 
 To investigate these the relationships among these three variables and life expectancy, I took a look at [WHO Life Expectancy Data through Kaggle](https://www.kaggle.com/kumarajarshi/life-expectancy-who). 
 
-
+Can life expectancy be predicted? How do GDP per capita, schooling, and population factor into life expectancy? 
+How can we use linear regressions and WHO data to predict life expectancy and analyze the relationships between these three variables and life expectancy?
 
 ## Data Sources
 
@@ -45,6 +46,8 @@ I will analyze:
 - Life expectancy prediction: Life Expectancy = 43.52 + .000088GDP/Capita + .00000000083Population + 2.07Schooling
 If Population is not considered significant because of its high P value, 
 Life Expectancy = 43.52 + .000088GDP/Capita + 2.07Schooling
+
+-Developed and some selected developing countries showed improvements in life expectancy by means of increased GDP per capita and better education/schooling. 
 
 ## Some links regarding GDP per Capita, Schooling, and Life expectancy
 
