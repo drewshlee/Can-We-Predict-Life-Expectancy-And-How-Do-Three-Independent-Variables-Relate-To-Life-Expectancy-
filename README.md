@@ -1,4 +1,4 @@
-# Can-We-Predict-Life-Expectancy? How does Life Expectancy relate to GDP per Capita, Population, and Schooling?
+# Can We-Predict Life-Expectancy? How does Life Expectancy relate to GDP per Capita, Population, and Schooling?
 
 ## Background
 
