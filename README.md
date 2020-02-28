@@ -36,13 +36,13 @@ I will analyze:
 
 ## Analysis Results
 
--Schooling shows the most clear-cut positive correlation. Life expectancy increased as schooling increased, for the most part. The WHO should either continue to focus on developing education in low life-expectancy countries, or should starting focusing on education to get the greatest return on time invested.
+- Schooling shows the most clear-cut positive correlation. Life expectancy increased as schooling increased, for the most part. The WHO should either continue to focus on developing education in low life-expectancy countries, or should starting focusing on education to get the greatest return on time invested.
 
--GDP per Capita and Life expectancy don't show as clear of a correlation. Life expectancy seems to even out as GDP per capita continues to increase. However, life expectancy is generally lower at lower GDP per capita.
+- GDP per Capita and Life expectancy don't show as clear of a correlation. Life expectancy seems to even out as GDP per capita continues to increase. However, life expectancy is generally lower at lower GDP per capita.
 
--Regression analysis shows that population is not significant in determining life expectancy
+- Regression analysis shows that population is not significant in determining life expectancy
 
--Life expectancy prediction: Life Expectancy = 43.52 + .000088GDP/Capita + .00000000083Population + 2.07Schooling
+- Life expectancy prediction: Life Expectancy = 43.52 + .000088GDP/Capita + .00000000083Population + 2.07Schooling
 If Population is not considered significant because of its high P value, 
 Life Expectancy = 43.52 + .000088GDP/Capita + 2.07Schooling
 
