@@ -48,6 +48,6 @@ Life Expectancy = 43.52 + .000088GDP/Capita + 2.07Schooling
 
 ## Some links regarding GDP per Capita, Schooling, and Life expectancy
 
--https://www.prb.org/us-educational-attainment-mortality/
--https://genus.springeropen.com/articles/10.1186/s41118-019-0055-0
--https://smartech.gatech.edu/bitstream/handle/1853/56031/effect_of_gdp_per_capita_on_national_life_expectancy.pdf
+- https://www.prb.org/us-educational-attainment-mortality/
+- https://genus.springeropen.com/articles/10.1186/s41118-019-0055-0
+- https://smartech.gatech.edu/bitstream/handle/1853/56031/effect_of_gdp_per_capita_on_national_life_expectancy.pdf
