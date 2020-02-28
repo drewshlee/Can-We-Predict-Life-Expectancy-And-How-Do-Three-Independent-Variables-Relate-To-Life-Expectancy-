@@ -47,7 +47,7 @@ I will analyze:
 If Population is not considered significant because of its high P value, 
 Life Expectancy = 43.52 + .000088GDP/Capita + 2.07Schooling
 
--Developed and some selected developing countries showed improvements in life expectancy by means of increased GDP per capita and better education/schooling. 
+- Developed and some selected developing countries showed improvements in life expectancy by means of increased GDP per capita and better education/schooling. 
 
 ## Some links regarding GDP per Capita, Schooling, and Life expectancy
 
